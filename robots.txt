@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://savagepressurewashing.com/sitemap.xml
